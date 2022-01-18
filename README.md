@@ -4,4 +4,5 @@ I only used **window.localStorage** as Database.
 
 You can :
 - Create (name, phone number) -> name is `Primarykey`
-- read
+- Read all names and phone numbers in a `table`
+- Delete in `table` any row have `Delete button` press and delete the record :wink:
