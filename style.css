@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(255, 244, 228);
+}
+.app{
+    position: absolute;
+    top:20%;
+    left:40%;
+}
+#table{
+    width:70%;
+}
+#table-div{
+    display: block;
+    position: absolute;
+    top:40%;
+    left:50%;
+}
+
+#insert-form{
+    position: absolute;
+    top:40%;
+    width:30%;
+}
+
+#search-div{
+    /* display: inline; */
+    width: 50%;
+}
+
+
