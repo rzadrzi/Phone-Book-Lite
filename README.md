@@ -1,3 +1,5 @@
 # Phone Book Lite
-in this project I don't use any technology
-### window.localStorage
+this is **CRUD** project and I don't use any technology!
+I only used **window.localStorage** as Database.
+
+
